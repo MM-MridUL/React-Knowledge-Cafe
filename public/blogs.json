@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/wK2CwXb/1.jpg",
+      "title": "Top 10 Es6 Feature You Must Know",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co.com/jLSCxjZ/boy1.png",
+      "posted_date": "2024-08-10",
+      "reading_time": 8,
+      "hashtags": ["#fantasy", "#adventure", "#epic"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/q7wMM1f/2.png",
+      "title": "JavaScript Object for absolute Beginners: A Fun Introduction",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co.com/zJ2W4Yf/girl1.jpg",
+      "posted_date": "2024-07-22",
+      "reading_time": 10,
+      "hashtags": ["#mystery", "#thriller", "#history"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/0rGWMzK/3.png",
+      "title": "Component lifecucle in React-Class component vs Functional component",
+      "author": "Michael Johnson",
+      "author_img": "https://i.ibb.co.com/yyMkhkG/boy2.jpg",
+      "posted_date": "2024-09-05",
+      "reading_time": 12,
+      "hashtags": ["#technology", "#AI", "#futurism"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/Fbbb37z/4.jpg",
+      "title": "Free images and resource colllection for website",
+      "author": "Emma Williams",
+      "author_img": "https://i.ibb.co.com/7KvhmKm/girl2.jpg",
+      "posted_date": "2024-06-15",
+      "reading_time": 5,
+      "hashtags": ["#lifestyle", "#minimalism", "#wellness"]
+    }
+  ]
+  
